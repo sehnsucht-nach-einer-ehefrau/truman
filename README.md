@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sehnsucht-nach-einer-ehefrau/truman/truman-github.png" width="330"/></img>
+<img src="https://raw.githubusercontent.com/sehnsucht-nach-einer-ehefrau/truman/master/truman-github.png" width="330"/></img>
 
 # Truman
 
